@@ -13,7 +13,8 @@ Jinja2==3.1.2
 joblib==1.2.0
 MarkupSafe==2.1.1
 nltk==3.7
-numpy==1.21.6
+sentence-transformers==2.2.2
+sentencepiece==0.1.97
 packaging==21.3
 pandas==1.3.5
 Pillow==9.2.0
@@ -25,8 +26,6 @@ regex==2022.9.13
 requests==2.28.1
 scikit-learn==1.0.2
 scipy==1.9.1
-sentence-transformers==2.2.2
-sentencepiece==0.1.97
 six==1.16.0
 smart-open==6.2.0
 threadpoolctl==3.1.0
